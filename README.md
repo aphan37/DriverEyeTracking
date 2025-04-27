@@ -20,18 +20,8 @@ This project is a real-time **driver eye monitoring system** that detects drowsi
 ---
 
 ## Project Structure
-driver_eye_tracker/ 
-- eye_detector.py # EAR-based detection 
-- cnn_model.py # CNN architecture for classification 
-- train_model.py # CNN model training script 
-- gradcam_visualizer.py # Grad-CAM visualization 
-- voice_alert.py # Voice alert module (TTS) 
-- drowsiness_detector.py # Main detection & inference script 
-- dataset/ 
-  eye_states/Open/75%/... # Organized training dataset 
-- model/ 
-  eye_classifier.pth # Trained model weights 
-- README.md # This file
+![image](https://github.com/user-attachments/assets/0b055eb3-c0be-428a-a435-3365e8db3a36)
+
 ## Setup Instructions
 ### Dependencies
 
