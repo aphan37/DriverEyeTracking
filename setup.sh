@@ -1,4 +1,6 @@
 #!/bin/bash
+# chmod +x setup.sh
+# ./setup.sh
 
 echo "DriverEyeTracking Setup Script"
 
