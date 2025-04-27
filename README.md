@@ -66,12 +66,6 @@ Uses pyttsx3 for offline TTS. When drowsiness is detected:
 🔊 "Detecting low focus!"
 Customize this in voice_alert.py.
 
-## Future Work
-Real-time Grad-CAM overlays
-Lightweight MobileNet model for faster inference
-Dashboard to log sleepiness scores over time
-Integration with cloud alerting
-
 ## License
 This project is licensed under MIT. Feel free to contribute, modify, or integrate into your own systems.
 
