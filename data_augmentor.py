@@ -1,5 +1,6 @@
 # data_augmentor.py
 # python data_augmentor.py
+# Samples contains 500 images. See num_samples_per_class value.
 """
 Blending formula:
 Synthetic = Open × (1 - α) + Closed × α
