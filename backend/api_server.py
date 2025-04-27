@@ -1,5 +1,6 @@
 # backend/api_server.py
-
+# running local on localhost:5000
+# /api/sleepiness will return live score.
 from flask import Flask, jsonify
 from threading import Lock
 
