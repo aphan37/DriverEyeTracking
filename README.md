@@ -23,10 +23,14 @@ This project is a real-time **driver eye monitoring system** that detects drowsi
 ![image](https://github.com/user-attachments/assets/0b055eb3-c0be-428a-a435-3365e8db3a36)
 
 ## Setup Instructions
-### Dependencies
-
-Install these on your system or Raspberry Pi:
-pip install torch torchvision opencv-python pyttsx3 matplotlib numpy
+### Requirements: use pip install -r requirements.txt
+torch
+torchvision
+opencv-python
+pyttsx3
+scipy
+numpy
+matplotlib
 
 ## Camera Support
 This project supports:
