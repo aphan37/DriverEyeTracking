@@ -20,7 +20,7 @@ This project is a real-time **driver eye monitoring system** that detects drowsi
 ---
 
 ## Project Structure
-![image](https://github.com/user-attachments/assets/0b055eb3-c0be-428a-a435-3365e8db3a36)
+![image](https://github.com/user-attachments/assets/ca1a8601-3f62-4bf9-a9d1-e3f40e9390d0)
 
 ## Setup Instructions
 ### Requirements: use pip install -r requirements.txt
