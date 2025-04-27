@@ -1,4 +1,4 @@
-# drowsiness_detector.py
+# drowsiness_detector.py with logging timestamp.
 
 import cv2
 import torch
