@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Dataset / Models (optional to ignore)
+dataset/
+model/
+
+# IDE specific
+.vscode/
+.idea/
+
+# System specific
+.DS_Store
+
+# Logs and outputs
+*.log
+*.out
+
+# Virtual environment (optional)
+venv/
+.env/
