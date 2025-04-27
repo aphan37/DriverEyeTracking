@@ -1,5 +1,5 @@
 # log_analyzer.py
-# Plot the graph and check the drowsiness in real time. 
+# Plot the graph and check the drowsiness in real time. Will utilize React for live UI.
 
 import pandas as pd
 import matplotlib.pyplot as plt
