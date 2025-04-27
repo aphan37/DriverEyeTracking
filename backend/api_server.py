@@ -2,9 +2,11 @@
 # running local on localhost:5000
 # /api/sleepiness will return live score.
 from flask import Flask, jsonify
+from flask_cors import CORS 
 from threading import Lock
 
 app = Flask(__name__)
+CORS(app)
 sleepiness_data = {
     "sleepiness_score": 100,
     "classification": "Open",
