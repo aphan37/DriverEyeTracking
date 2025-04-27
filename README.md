@@ -31,16 +31,7 @@ Webcam (default: /dev/video0)
 Raspberry Pi Camera (requires picamera2 or OpenCV)
 
 ## Model Training
-Ensure the dataset is structured like this:
-
-dataset/eye_states/
-├── Open/
-├── 75/
-├── Half/
-├── 25/
-└── Closed/
-Each folder contains images of eyes in that state.
-To train: python train_model.py
+python train_model.py.
 This creates a model file: model/eye_classifier.pth
 
 ## Running the Real-Time Detector
